@@ -1,0 +1,19 @@
+{
+  "name": "checkjsonapp",
+  "version": "0.0.1",
+  "description": "App that check a JSON for typos and grammatical errors for EN and RO",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paharnikos/learn-js.git"
+  },
+  "author": "Ioan Iulian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paharnikos/learn-js/issues"
+  },
+  "homepage": "https://github.com/paharnikos/learn-js#readme"
+}
